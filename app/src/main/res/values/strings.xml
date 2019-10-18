@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Midterm</string>
+    <string name="solve">Giải</string>
+    <string name="delete"> Xóa hết</string>
+</resources>
